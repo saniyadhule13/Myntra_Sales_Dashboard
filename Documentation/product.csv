@@ -1,0 +1,501 @@
+﻿product_id,product_name,category,price,stock_quantity,rating,brand
+1,Product 1,Home,7383,1,1.1,West LLC
+2,Product 2,Clothing,1005,306,1.4,"Johnston, Becker and Zuniga"
+3,Product 3,Sports,810,265,2.5,Scott LLC
+4,Product 4,Beauty,3526,214,1.5,Green-Cantrell
+5,Product 5,Electronics,1375,483,1.7,Smith-Romero
+6,Product 6,Clothing,9079,347,3.3,Hebert and Sons
+7,Product 7,Home,4344,435,2.3,Molina Ltd
+8,Product 8,Clothing,552,146,2.7,Jones-Reynolds
+9,Product 9,Sports,7261,46,4.1,"Martinez, Peterson and Holland"
+10,Product 10,Electronics,7504,264,3.3,Hill Group
+11,Product 11,Electronics,6295,440,4.1,"Johnson, Murphy and Moore"
+12,Product 12,Home,2033,362,3.7,Wagner Ltd
+13,Product 13,Home,2609,233,1.8,Hubbard-Haas
+14,Product 14,Clothing,6673,321,4.8,"Wolf, Cowan and Swanson"
+15,Product 15,Home,8230,314,2.9,Cortez-Carter
+16,Product 16,Beauty,6789,65,4.7,"Sullivan, Bennett and Cook"
+17,Product 17,Clothing,3755,36,1.8,"Hill, Wright and Matthews"
+18,Product 18,Home,4166,282,3.6,"Hill, Edwards and Payne"
+19,Product 19,Clothing,9031,387,5.0,Banks PLC
+20,Product 20,Home,7740,65,3.3,"Potts, Hudson and Romero"
+21,Product 21,Clothing,9405,108,1.0,"Martin, Monroe and Buchanan"
+22,Product 22,Beauty,2507,419,1.9,Gray-Kelley
+23,Product 23,Electronics,5151,307,2.9,Lucas-Glenn
+24,Product 24,Clothing,1400,107,3.5,"Koch, Foster and Clark"
+25,Product 25,Clothing,7208,97,3.9,"Austin, Guerrero and Torres"
+26,Product 26,Sports,4719,452,4.8,Cole Group
+27,Product 27,Home,4304,309,1.2,Grant-Frey
+28,Product 28,Home,3348,311,4.4,Fletcher-Weber
+29,Product 29,Clothing,8365,82,2.8,Brown-James
+30,Product 30,Home,7952,230,3.7,Patel PLC
+31,Product 31,Clothing,6864,123,1.4,"Petersen, Farley and Ellis"
+32,Product 32,Sports,9159,321,1.4,Wong and Sons
+33,Product 33,Beauty,2531,486,2.8,"Hooper, Santiago and Nixon"
+34,Product 34,Beauty,4723,467,4.1,Peterson-Russell
+35,Product 35,Beauty,532,0,2.4,"Washington, Jones and Durham"
+36,Product 36,Clothing,3776,243,4.5,Campbell Group
+37,Product 37,Electronics,5974,97,4.7,"Mckenzie, Bauer and Gilmore"
+38,Product 38,Electronics,7964,459,4.4,Hubbard Group
+39,Product 39,Electronics,569,57,4.9,"Young, Parker and Martinez"
+40,Product 40,Clothing,8004,72,2.8,Huynh LLC
+41,Product 41,Clothing,4365,112,2.1,"Branch, Ali and Clark"
+42,Product 42,Clothing,3798,303,1.8,"Baker, Stewart and Hernandez"
+43,Product 43,Sports,2257,65,5.0,Henderson PLC
+44,Product 44,Sports,7604,52,4.3,"Weber, Alexander and Williams"
+45,Product 45,Electronics,6000,52,2.8,Davis LLC
+46,Product 46,Beauty,2736,110,2.5,"West, Howard and Vaughn"
+47,Product 47,Sports,6006,299,3.2,Allen-Randolph
+48,Product 48,Clothing,7171,139,3.5,"Martin, Bradford and Rodriguez"
+49,Product 49,Beauty,4975,181,4.9,Charles Inc
+50,Product 50,Clothing,7706,284,1.9,"Hughes, Horton and Myers"
+51,Product 51,Beauty,4970,177,2.0,Baker-Henderson
+52,Product 52,Clothing,4381,348,2.7,Johnson-Hill
+53,Product 53,Sports,493,433,3.6,"Ramirez, Golden and Thompson"
+54,Product 54,Beauty,5045,174,2.5,Cunningham Inc
+55,Product 55,Home,2603,216,1.6,Mclean Inc
+56,Product 56,Electronics,3520,259,3.6,Day and Sons
+57,Product 57,Beauty,2705,71,4.3,Blankenship and Sons
+58,Product 58,Sports,9175,449,3.7,Patton-Guerrero
+59,Product 59,Clothing,3707,161,2.8,White Inc
+60,Product 60,Home,8364,159,4.6,Macias and Sons
+61,Product 61,Clothing,6585,411,2.8,Palmer-Jackson
+62,Product 62,Home,7260,88,2.3,Williams-Smith
+63,Product 63,Clothing,226,410,1.5,"Cole, Smith and Lewis"
+64,Product 64,Beauty,3594,177,1.7,Owens and Sons
+65,Product 65,Electronics,1575,470,3.0,Green Group
+66,Product 66,Home,3514,470,1.8,Morris LLC
+67,Product 67,Sports,1386,192,1.3,Massey-Miller
+68,Product 68,Electronics,1393,462,1.3,"Wolf, Keller and Mosley"
+69,Product 69,Home,3379,380,2.5,Smith and Sons
+70,Product 70,Beauty,5334,5,4.1,Burns-Andrade
+71,Product 71,Electronics,1979,147,1.5,Little LLC
+72,Product 72,Sports,4731,170,2.6,Sandoval-Martinez
+73,Product 73,Sports,4792,124,2.2,Patterson-Solis
+74,Product 74,Beauty,4264,301,2.1,"Russell, Mitchell and Montoya"
+75,Product 75,Electronics,5949,160,3.0,"Lopez, Evans and Kelly"
+76,Product 76,Electronics,1796,272,4.4,"Sanchez, Chase and Walker"
+77,Product 77,Sports,2932,270,1.2,"Jones, Conrad and Martinez"
+78,Product 78,Sports,9614,483,3.7,"Williams, Herrera and Foster"
+79,Product 79,Electronics,7778,74,4.4,Schwartz Ltd
+80,Product 80,Clothing,9998,139,1.1,"Flores, Lee and Miranda"
+81,Product 81,Home,5434,324,1.7,Sanchez Ltd
+82,Product 82,Clothing,9229,387,4.9,Prince-Franklin
+83,Product 83,Electronics,8065,46,2.6,Robinson PLC
+84,Product 84,Sports,3374,56,1.3,"Rodriguez, Santos and Barajas"
+85,Product 85,Home,7726,27,2.2,Lopez-Alvarez
+86,Product 86,Clothing,3922,64,2.8,"Castro, Ross and Carter"
+87,Product 87,Clothing,5931,87,4.9,Mckee and Sons
+88,Product 88,Sports,1892,52,2.6,Avila LLC
+89,Product 89,Sports,1967,487,4.3,Johnson and Sons
+90,Product 90,Clothing,5742,268,3.9,"Mata, Townsend and Mcbride"
+91,Product 91,Sports,2426,197,3.3,Carter Ltd
+92,Product 92,Beauty,9153,272,2.5,King Inc
+93,Product 93,Sports,8858,136,3.9,"Marks, Lowery and Lucas"
+94,Product 94,Beauty,8136,49,4.4,"Flores, Young and Campbell"
+95,Product 95,Beauty,1920,124,3.2,"Hoffman, Graves and Miller"
+96,Product 96,Sports,7924,55,3.1,Moss Group
+97,Product 97,Clothing,2581,311,2.5,Thomas-Young
+98,Product 98,Electronics,8801,284,4.2,Moore Group
+99,Product 99,Sports,7480,418,2.5,Bishop-Martin
+100,Product 100,Clothing,2808,33,3.5,"Cook, Pace and Vazquez"
+101,Product 101,Sports,8481,172,3.4,"Hill, Larsen and Anderson"
+102,Product 102,Clothing,7997,178,1.9,Lozano-Hall
+103,Product 103,Beauty,3003,424,2.8,Myers-Johnson
+104,Product 104,Clothing,4304,263,3.6,Smith-Johnson
+105,Product 105,Clothing,2035,278,2.0,Arroyo-Aguilar
+106,Product 106,Sports,3151,236,2.2,"Taylor, Williams and Lopez"
+107,Product 107,Sports,4996,287,1.2,Gardner Inc
+108,Product 108,Electronics,1845,493,4.8,"Hansen, Wells and Preston"
+109,Product 109,Sports,7744,123,2.5,Calderon and Sons
+110,Product 110,Home,166,68,2.4,"Houston, Moore and Vaughan"
+111,Product 111,Beauty,4199,89,2.0,Sellers Ltd
+112,Product 112,Clothing,1365,317,3.1,Everett-Collier
+113,Product 113,Sports,8499,161,3.3,"Johnson, Richardson and Anderson"
+114,Product 114,Beauty,8116,151,2.6,Phillips-Beasley
+115,Product 115,Sports,901,246,4.6,"Kaufman, Williams and Russell"
+116,Product 116,Electronics,6777,145,3.4,Ramirez-Burnett
+117,Product 117,Home,6431,394,2.8,"Thomas, Scott and Avery"
+118,Product 118,Electronics,3022,417,4.7,Perez Ltd
+119,Product 119,Beauty,703,301,2.1,Cox-Miller
+120,Product 120,Home,458,492,1.7,Castillo-Patel
+121,Product 121,Home,9357,480,3.2,Hayes Group
+122,Product 122,Sports,8570,301,2.0,Johnson and Sons
+123,Product 123,Beauty,5979,394,2.9,"Torres, Hamilton and Hughes"
+124,Product 124,Home,4127,350,2.7,Duncan and Sons
+125,Product 125,Electronics,4484,305,4.7,Swanson-Romero
+126,Product 126,Beauty,511,310,4.4,Townsend-Sullivan
+127,Product 127,Clothing,803,122,1.6,Byrd-White
+128,Product 128,Electronics,1065,490,4.6,Gallegos Inc
+129,Product 129,Beauty,6421,421,4.5,Wilkins and Sons
+130,Product 130,Beauty,8697,247,2.2,Hernandez-Smith
+131,Product 131,Clothing,6426,463,3.6,Mckenzie Inc
+132,Product 132,Sports,4597,161,1.6,"Jones, Phillips and Neal"
+133,Product 133,Sports,4827,130,1.5,Perez-Curtis
+134,Product 134,Beauty,433,357,1.2,Johnson-Chase
+135,Product 135,Home,2784,51,4.6,"Davis, Nelson and Rodriguez"
+136,Product 136,Home,3041,13,2.7,Rivera and Sons
+137,Product 137,Electronics,9792,350,3.0,Johnson-Harris
+138,Product 138,Sports,6011,490,4.3,Wright Ltd
+139,Product 139,Clothing,6678,352,1.7,Molina and Sons
+140,Product 140,Beauty,7936,404,3.3,Jackson-Myers
+141,Product 141,Home,5963,315,2.2,Aguirre Group
+142,Product 142,Clothing,4451,319,3.1,Kim Inc
+143,Product 143,Electronics,1092,118,3.9,Benjamin-Davidson
+144,Product 144,Clothing,952,367,1.0,"Burke, Charles and Baker"
+145,Product 145,Clothing,303,413,5.0,Pope-Wong
+146,Product 146,Beauty,7549,198,2.0,"Gutierrez, Jones and Parker"
+147,Product 147,Home,4932,184,4.7,Reynolds-Sutton
+148,Product 148,Beauty,5057,432,3.4,White-Wells
+149,Product 149,Clothing,6253,261,4.9,Williams Ltd
+150,Product 150,Sports,179,405,3.3,"Alexander, Ayala and Miller"
+151,Product 151,Beauty,9774,497,3.7,Baker Inc
+152,Product 152,Sports,8703,383,3.2,"Ward, Hunt and Wood"
+153,Product 153,Clothing,6657,190,4.4,Johnson-Watson
+154,Product 154,Beauty,2254,355,4.9,Kelley PLC
+155,Product 155,Beauty,3414,413,3.5,Martinez-Lopez
+156,Product 156,Sports,1080,239,1.7,Lopez-Flores
+157,Product 157,Beauty,8682,407,4.6,Hoover-Holmes
+158,Product 158,Beauty,3155,412,3.5,"Stevens, Goodman and Yu"
+159,Product 159,Home,5798,190,4.9,"Foster, Hull and Powell"
+160,Product 160,Electronics,4753,81,2.5,Baxter and Sons
+161,Product 161,Electronics,8668,327,1.7,Fletcher PLC
+162,Product 162,Beauty,7997,434,2.6,White-Roberts
+163,Product 163,Beauty,1089,165,2.6,Avila-Merritt
+164,Product 164,Clothing,1863,45,4.6,"Jensen, Murillo and Warren"
+165,Product 165,Clothing,2804,166,4.9,Jones-Mueller
+166,Product 166,Beauty,1767,185,3.1,Alexander PLC
+167,Product 167,Beauty,7276,205,4.0,Robertson-Bridges
+168,Product 168,Beauty,2126,134,1.9,Valenzuela-Walker
+169,Product 169,Home,1711,26,3.4,Ward Ltd
+170,Product 170,Home,5243,57,2.0,Miller Inc
+171,Product 171,Sports,4878,376,2.7,Morrow Inc
+172,Product 172,Beauty,8206,441,1.5,Decker Group
+173,Product 173,Home,7111,73,4.5,Stark and Sons
+174,Product 174,Beauty,5394,21,4.6,"Smith, Conway and Morrison"
+175,Product 175,Electronics,8190,490,2.7,Anderson Inc
+176,Product 176,Sports,6822,242,4.0,Thompson Inc
+177,Product 177,Sports,5567,314,2.7,Harvey Ltd
+178,Product 178,Home,885,363,5.0,Cole-Kelly
+179,Product 179,Home,7886,308,3.4,Rose-Mueller
+180,Product 180,Sports,2762,229,3.9,Smith Ltd
+181,Product 181,Electronics,575,325,3.5,"King, Alexander and Gonzalez"
+182,Product 182,Home,3502,481,4.2,Diaz-Hood
+183,Product 183,Beauty,2684,196,3.6,Wallace-Marshall
+184,Product 184,Clothing,2562,465,1.1,"Chapman, Barrera and Campos"
+185,Product 185,Home,9725,278,4.6,Foster-Parker
+186,Product 186,Beauty,301,376,4.0,Harrington LLC
+187,Product 187,Sports,7902,477,3.4,White Ltd
+188,Product 188,Home,1340,497,1.8,Stewart Inc
+189,Product 189,Sports,7671,215,1.2,Boyle-Young
+190,Product 190,Sports,9154,402,4.5,"Jones, Alvarez and Dillon"
+191,Product 191,Beauty,600,262,1.6,"Smith, Nguyen and Whitehead"
+192,Product 192,Electronics,8710,0,1.9,Welch-King
+193,Product 193,Electronics,2706,478,4.1,"Lindsey, Davis and Webster"
+194,Product 194,Sports,8080,112,4.2,Brown-Greer
+195,Product 195,Sports,527,77,1.8,Evans and Sons
+196,Product 196,Home,3348,377,4.0,"Berry, Davis and Rich"
+197,Product 197,Clothing,1979,317,4.5,Perez Group
+198,Product 198,Clothing,2082,286,2.7,Nichols LLC
+199,Product 199,Home,9352,380,2.1,Bartlett and Sons
+200,Product 200,Clothing,994,128,3.5,"Smith, Evans and Wiley"
+201,Product 201,Beauty,1906,480,3.9,Mcdonald-Nash
+202,Product 202,Sports,1340,471,2.8,Padilla PLC
+203,Product 203,Home,8865,468,2.0,Taylor-Carter
+204,Product 204,Home,5332,447,1.2,Wood-Andrews
+205,Product 205,Beauty,4349,374,1.7,Irwin Inc
+206,Product 206,Beauty,6328,69,1.3,"Cox, Mendoza and Hanson"
+207,Product 207,Electronics,1145,139,4.6,Baldwin Inc
+208,Product 208,Beauty,9063,211,4.5,Castillo-Huynh
+209,Product 209,Clothing,8256,40,2.0,Kaufman and Sons
+210,Product 210,Sports,2955,254,4.0,Robinson-Ross
+211,Product 211,Beauty,8936,21,4.1,Jones Ltd
+212,Product 212,Clothing,2125,176,2.8,Johnson LLC
+213,Product 213,Clothing,1327,282,1.7,"Ford, Smith and Thompson"
+214,Product 214,Electronics,9847,56,1.7,Newman-Davis
+215,Product 215,Beauty,1100,235,4.9,"Hogan, Espinoza and Serrano"
+216,Product 216,Beauty,6829,393,3.8,Johnston-Raymond
+217,Product 217,Electronics,6416,279,3.0,"Farrell, Poole and Sanders"
+218,Product 218,Beauty,5588,440,3.2,"Williams, Sanchez and Allen"
+219,Product 219,Beauty,8550,173,4.1,Martinez-Hayden
+220,Product 220,Sports,792,135,2.1,Shannon-Gonzalez
+221,Product 221,Sports,3953,296,2.5,"Gregory, Moore and Lambert"
+222,Product 222,Clothing,8997,414,2.8,"Smith, Griffith and Green"
+223,Product 223,Electronics,3994,83,4.8,"Mercado, Johnson and Jenkins"
+224,Product 224,Beauty,6082,419,4.3,Best Group
+225,Product 225,Home,6279,258,1.5,Johnson Group
+226,Product 226,Home,6844,31,3.0,Brock-Morrison
+227,Product 227,Beauty,3371,247,4.8,"Moss, Gardner and Castillo"
+228,Product 228,Clothing,3377,49,3.7,"Tran, Clark and Black"
+229,Product 229,Sports,6873,225,1.4,Weiss-Rodriguez
+230,Product 230,Home,1378,362,1.4,"Hernandez, Williams and Lozano"
+231,Product 231,Home,6242,90,3.0,"Lane, Ramirez and Johnson"
+232,Product 232,Clothing,4005,381,4.2,Nelson PLC
+233,Product 233,Clothing,7932,329,1.4,Kim LLC
+234,Product 234,Beauty,3036,159,4.8,Arellano-Gilbert
+235,Product 235,Clothing,931,12,3.3,Riddle-Barnes
+236,Product 236,Home,5507,214,3.8,Weber LLC
+237,Product 237,Sports,3798,424,2.2,Young PLC
+238,Product 238,Clothing,2253,35,3.5,"Mendez, Romero and Cortez"
+239,Product 239,Home,2008,474,2.5,Perez-Peterson
+240,Product 240,Sports,826,205,2.2,"Rowe, Escobar and Brown"
+241,Product 241,Home,6358,48,3.3,Day-Baker
+242,Product 242,Electronics,959,307,2.5,Shah-Dunn
+243,Product 243,Sports,3767,252,3.2,West-Krueger
+244,Product 244,Electronics,9563,356,2.0,"Smith, Ryan and Smith"
+245,Product 245,Clothing,6825,412,4.9,Spencer Inc
+246,Product 246,Electronics,7060,247,2.5,Crawford-Anderson
+247,Product 247,Sports,5807,366,3.3,Parsons Ltd
+248,Product 248,Clothing,5140,368,2.9,Bradley LLC
+249,Product 249,Clothing,3076,114,1.4,Fisher Group
+250,Product 250,Sports,4301,347,1.1,Moreno-Saunders
+251,Product 251,Electronics,1127,78,2.4,Thompson Group
+252,Product 252,Beauty,2663,332,3.2,Rocha PLC
+253,Product 253,Home,4985,129,3.8,"Galvan, Kelly and Kim"
+254,Product 254,Clothing,8080,476,1.7,Shaw-Miller
+255,Product 255,Home,6915,94,1.1,Huffman-Key
+256,Product 256,Sports,8015,264,1.6,Carr PLC
+257,Product 257,Sports,1515,127,2.3,Perez LLC
+258,Product 258,Home,6742,182,2.1,"Parker, Johnson and Carter"
+259,Product 259,Clothing,4256,67,2.9,Green and Sons
+260,Product 260,Sports,2313,211,2.4,Owen Inc
+261,Product 261,Electronics,8358,213,2.0,Rios LLC
+262,Product 262,Sports,7591,424,3.1,Buchanan-Jones
+263,Product 263,Clothing,7027,396,3.1,Jordan-Franklin
+264,Product 264,Beauty,2992,56,3.1,Hubbard PLC
+265,Product 265,Beauty,445,192,1.5,Dean-Wolf
+266,Product 266,Beauty,1413,316,2.6,Navarro-Logan
+267,Product 267,Sports,9802,401,4.5,Hess-Gomez
+268,Product 268,Sports,8452,458,4.7,Palmer-Thompson
+269,Product 269,Home,8261,361,3.3,Oliver-Hansen
+270,Product 270,Sports,5974,76,2.0,"Mathews, Burns and Hall"
+271,Product 271,Clothing,9332,400,4.7,Ballard-Smith
+272,Product 272,Sports,9771,214,3.0,Wilkinson and Sons
+273,Product 273,Beauty,9304,73,4.2,Williams Inc
+274,Product 274,Sports,514,364,2.9,"Little, Hayes and Smith"
+275,Product 275,Home,4126,163,3.3,"Harris, Baird and Young"
+276,Product 276,Sports,5653,279,2.8,Williams-Morris
+277,Product 277,Sports,1812,487,1.1,"Smith, Scott and Sutton"
+278,Product 278,Clothing,4446,151,2.3,"Hansen, Meza and Huerta"
+279,Product 279,Electronics,8933,130,2.1,Warren PLC
+280,Product 280,Home,598,343,4.2,"Smith, Smith and Craig"
+281,Product 281,Beauty,8327,110,4.7,"Woodward, White and Williamson"
+282,Product 282,Clothing,132,197,2.4,"Carter, Parks and Garcia"
+283,Product 283,Home,9977,31,4.7,Davis-Romero
+284,Product 284,Beauty,1327,359,1.2,Matthews-Gonzalez
+285,Product 285,Home,6960,196,2.5,Murray-Bowers
+286,Product 286,Electronics,1335,388,2.1,Moore-Doyle
+287,Product 287,Electronics,5220,332,3.1,Valdez-Roth
+288,Product 288,Electronics,6709,23,4.7,"Davis, Cameron and Jones"
+289,Product 289,Sports,6074,20,4.1,"Russell, Miller and Walton"
+290,Product 290,Sports,8108,266,4.2,Jensen Inc
+291,Product 291,Electronics,2599,258,2.5,Morris-Yates
+292,Product 292,Beauty,9437,392,3.9,Jones PLC
+293,Product 293,Sports,3156,152,1.2,Farmer-Porter
+294,Product 294,Clothing,2813,350,2.2,"Jordan, Klein and Gonzalez"
+295,Product 295,Beauty,9489,0,2.2,Taylor and Sons
+296,Product 296,Beauty,4832,319,3.7,"Allen, Cox and Harris"
+297,Product 297,Electronics,1490,401,4.5,Harrell-David
+298,Product 298,Sports,7494,367,1.4,Humphrey-Thompson
+299,Product 299,Sports,6735,254,3.1,Jensen LLC
+300,Product 300,Beauty,3824,395,2.0,Hoover Ltd
+301,Product 301,Clothing,7201,205,3.6,Rogers LLC
+302,Product 302,Sports,1386,281,2.0,Lee LLC
+303,Product 303,Clothing,6559,192,2.6,Carrillo-Bates
+304,Product 304,Beauty,5702,63,4.7,Campos-Payne
+305,Product 305,Home,6459,124,4.5,Thomas Inc
+306,Product 306,Beauty,427,86,1.6,Alvarez PLC
+307,Product 307,Home,3734,359,4.2,Navarro and Sons
+308,Product 308,Clothing,9878,411,4.2,"Long, Hernandez and Taylor"
+309,Product 309,Sports,5432,290,4.5,Reid Ltd
+310,Product 310,Home,1023,44,4.0,"Lopez, Mayer and Cruz"
+311,Product 311,Sports,1370,357,2.9,"Ponce, Middleton and Smith"
+312,Product 312,Beauty,1017,241,2.9,Hernandez-Tyler
+313,Product 313,Clothing,2105,447,2.3,Cole Inc
+314,Product 314,Clothing,3186,163,4.8,"Jarvis, Wallace and Flores"
+315,Product 315,Beauty,5375,196,2.9,Davis PLC
+316,Product 316,Clothing,2025,94,2.1,"Buchanan, Velazquez and Campbell"
+317,Product 317,Beauty,3598,121,1.4,"Hernandez, Rivera and Morales"
+318,Product 318,Beauty,8576,156,3.1,Mitchell Group
+319,Product 319,Sports,5440,479,4.0,Bell Group
+320,Product 320,Home,4686,492,3.0,"Johnson, Carr and Walsh"
+321,Product 321,Electronics,7163,464,4.1,Cohen-Rose
+322,Product 322,Clothing,8465,156,2.1,"Johnson, Simmons and Gonzalez"
+323,Product 323,Beauty,3539,124,4.5,Washington-Trujillo
+324,Product 324,Sports,9564,325,4.2,"Yu, Smith and Marsh"
+325,Product 325,Home,4425,347,4.8,Gordon-Ballard
+326,Product 326,Sports,8014,228,3.1,Webster LLC
+327,Product 327,Beauty,4059,90,3.8,Bennett LLC
+328,Product 328,Electronics,1982,130,2.2,"Terry, Armstrong and Holland"
+329,Product 329,Electronics,6394,490,1.4,"Grant, Parker and Morgan"
+330,Product 330,Clothing,6169,82,1.3,"Andrade, Bradford and Hodge"
+331,Product 331,Clothing,8327,176,4.2,"Wood, Perez and Lewis"
+332,Product 332,Beauty,9187,135,1.1,"Collier, Torres and Mcbride"
+333,Product 333,Home,4948,322,3.2,Olson-Scott
+334,Product 334,Sports,7855,420,4.0,Hinton Group
+335,Product 335,Sports,3595,262,3.7,"White, Anderson and Lane"
+336,Product 336,Home,2077,96,3.8,Smith Ltd
+337,Product 337,Clothing,3014,413,3.3,Carrillo-Edwards
+338,Product 338,Clothing,8558,236,3.3,"Spence, Graves and Goodwin"
+339,Product 339,Clothing,1062,368,1.6,Fernandez Ltd
+340,Product 340,Home,6534,483,1.4,Gibson and Sons
+341,Product 341,Electronics,1233,470,4.4,"Stein, James and Lambert"
+342,Product 342,Sports,808,436,1.8,Ross Inc
+343,Product 343,Clothing,6618,436,2.9,Farrell-Hall
+344,Product 344,Sports,7129,236,3.5,Ortega-Green
+345,Product 345,Sports,6080,423,4.4,Carter-Aguilar
+346,Product 346,Sports,8830,98,1.6,Smith-Adams
+347,Product 347,Electronics,4055,190,1.4,"Carter, Pena and Nelson"
+348,Product 348,Electronics,9864,409,4.3,Smith Inc
+349,Product 349,Electronics,9083,417,2.8,"Nguyen, Greer and Butler"
+350,Product 350,Home,2023,130,3.2,Martin-Jones
+351,Product 351,Electronics,8394,464,1.5,Brooks PLC
+352,Product 352,Beauty,8327,43,1.1,Pierce LLC
+353,Product 353,Electronics,8490,86,2.5,"Wang, Berry and Garcia"
+354,Product 354,Clothing,6624,22,2.0,Castro-Prince
+355,Product 355,Clothing,3972,119,3.1,"Mitchell, Ortiz and Ramos"
+356,Product 356,Clothing,7623,393,2.8,Johnson-Small
+357,Product 357,Electronics,1901,308,2.1,Allen-Romero
+358,Product 358,Beauty,876,221,1.3,Erickson-Leblanc
+359,Product 359,Beauty,134,302,3.3,"Silva, Baxter and Young"
+360,Product 360,Beauty,7936,349,4.1,Perez-Mcdonald
+361,Product 361,Beauty,1521,233,3.3,Hood Ltd
+362,Product 362,Beauty,9032,233,1.3,King and Sons
+363,Product 363,Sports,5692,390,3.8,"Le, Wilson and Bush"
+364,Product 364,Sports,5032,244,4.4,"Reyes, Edwards and Campbell"
+365,Product 365,Beauty,2532,435,3.0,Jones Group
+366,Product 366,Beauty,3411,112,1.8,Miller Group
+367,Product 367,Home,7596,336,1.4,"Rollins, Wilson and Schneider"
+368,Product 368,Clothing,2023,195,3.9,"Paul, Landry and Long"
+369,Product 369,Home,2604,119,4.5,Archer Group
+370,Product 370,Home,2338,91,1.9,Barry Ltd
+371,Product 371,Clothing,8364,90,4.5,Hendrix LLC
+372,Product 372,Beauty,1416,90,4.6,Mendoza and Sons
+373,Product 373,Clothing,5255,444,2.2,Bailey Ltd
+374,Product 374,Beauty,1359,239,2.2,Rasmussen-Patterson
+375,Product 375,Clothing,9583,356,3.5,Bowen-Wright
+376,Product 376,Sports,7229,25,4.4,Jacobs LLC
+377,Product 377,Sports,3078,85,3.1,"Gamble, Newman and Berry"
+378,Product 378,Sports,9971,11,4.5,Miles Group
+379,Product 379,Sports,288,191,1.0,Preston-Ward
+380,Product 380,Home,5037,68,1.9,Cooper Group
+381,Product 381,Beauty,1186,277,2.5,Rodriguez Ltd
+382,Product 382,Beauty,1765,409,1.1,Hall Inc
+383,Product 383,Clothing,3997,261,4.2,Carter-Simon
+384,Product 384,Beauty,2886,6,4.9,"Horne, Mckenzie and Barnes"
+385,Product 385,Clothing,3416,57,4.6,Sharp-Robbins
+386,Product 386,Beauty,7081,286,2.9,Turner-Chen
+387,Product 387,Electronics,9763,454,4.1,Ewing LLC
+388,Product 388,Clothing,2920,36,2.6,"Rowe, Davis and Harmon"
+389,Product 389,Home,8169,479,2.3,Davis Inc
+390,Product 390,Beauty,2081,292,1.7,Davies-Long
+391,Product 391,Beauty,7357,351,2.1,Mcgee and Sons
+392,Product 392,Home,1069,21,4.5,James-Miller
+393,Product 393,Beauty,5614,330,2.9,Peterson Ltd
+394,Product 394,Clothing,9264,33,1.1,"Pham, Foster and Christensen"
+395,Product 395,Sports,4317,369,2.2,Peterson and Sons
+396,Product 396,Electronics,2758,391,2.3,"Norris, Andrews and Becker"
+397,Product 397,Home,9923,429,4.4,Rivera-Beck
+398,Product 398,Home,6975,471,4.1,Evans Ltd
+399,Product 399,Beauty,2348,164,3.7,"Alvarado, Randall and Jackson"
+400,Product 400,Sports,4939,250,1.8,Chang-Evans
+401,Product 401,Sports,2493,304,2.8,Ingram-Townsend
+402,Product 402,Electronics,724,134,5.0,Walker Inc
+403,Product 403,Sports,5297,299,4.1,Ellis-Richardson
+404,Product 404,Electronics,5532,237,2.4,Gomez-Dickson
+405,Product 405,Electronics,7803,219,2.3,Roberts Inc
+406,Product 406,Beauty,8666,93,3.2,Williams PLC
+407,Product 407,Electronics,5041,257,3.7,Miller-Nguyen
+408,Product 408,Electronics,1506,57,1.6,Walton PLC
+409,Product 409,Electronics,3636,131,2.7,Larson Inc
+410,Product 410,Sports,1950,430,2.0,Glenn-Lee
+411,Product 411,Clothing,683,168,1.7,Swanson-Foster
+412,Product 412,Clothing,2577,239,1.2,Sanchez-Nelson
+413,Product 413,Beauty,7682,465,2.9,"Roberts, Villarreal and Roberts"
+414,Product 414,Home,7849,112,1.8,"Vargas, Nichols and Church"
+415,Product 415,Electronics,9335,82,3.9,Smith PLC
+416,Product 416,Home,1795,17,2.0,Rios and Sons
+417,Product 417,Beauty,5478,115,1.9,Henderson-Steele
+418,Product 418,Sports,8496,180,2.4,Crosby-Moore
+419,Product 419,Home,6185,420,4.1,"Taylor, Smith and Nelson"
+420,Product 420,Electronics,2612,27,2.3,Hunt-Coleman
+421,Product 421,Beauty,1837,40,2.9,Benton LLC
+422,Product 422,Clothing,2063,150,2.3,Zimmerman-Jenkins
+423,Product 423,Electronics,9274,491,4.2,"Lyons, Bishop and Cook"
+424,Product 424,Home,8160,398,2.3,"Morgan, Roberts and Morales"
+425,Product 425,Home,6302,93,2.2,Gutierrez-Santiago
+426,Product 426,Electronics,3669,352,3.2,Rivera Group
+427,Product 427,Electronics,7939,414,2.4,Brewer Ltd
+428,Product 428,Sports,4566,409,3.0,Baker-Carroll
+429,Product 429,Clothing,9556,468,3.1,Roberts-Jones
+430,Product 430,Sports,8207,232,4.3,"Fisher, Sanders and Cooley"
+431,Product 431,Home,3477,208,4.7,"Paul, Bailey and Price"
+432,Product 432,Electronics,5619,402,1.6,Mckinney-Wright
+433,Product 433,Home,1018,142,4.3,Ruiz-Moore
+434,Product 434,Electronics,7634,153,4.7,Robles-Green
+435,Product 435,Beauty,1446,93,1.2,Jackson PLC
+436,Product 436,Sports,9749,331,2.3,Schmidt-Cooper
+437,Product 437,Beauty,8765,146,2.4,Choi-White
+438,Product 438,Beauty,9722,133,4.9,Hobbs PLC
+439,Product 439,Sports,8872,411,3.3,Levy LLC
+440,Product 440,Home,632,175,2.6,"Hernandez, Anderson and Armstrong"
+441,Product 441,Electronics,5608,134,3.6,Miranda and Sons
+442,Product 442,Sports,5784,123,1.8,"Hill, King and Schwartz"
+443,Product 443,Electronics,1814,282,3.6,Ramos and Sons
+444,Product 444,Clothing,9635,220,1.6,"Dennis, Ramos and Hamilton"
+445,Product 445,Electronics,2069,321,2.3,Barber-Kelley
+446,Product 446,Electronics,9384,361,1.7,Bauer-Le
+447,Product 447,Home,2645,9,2.9,Perez-Miller
+448,Product 448,Home,2566,142,2.3,Jones-Reed
+449,Product 449,Beauty,1273,303,1.8,Williams-Bailey
+450,Product 450,Beauty,2223,192,2.0,Fuller PLC
+451,Product 451,Home,6416,475,4.5,"Fernandez, Carter and Bauer"
+452,Product 452,Electronics,200,181,1.4,Burgess-Torres
+453,Product 453,Beauty,9440,237,3.1,"Gibson, Mullins and Aguirre"
+454,Product 454,Beauty,412,375,4.1,Brown Inc
+455,Product 455,Beauty,6367,34,3.0,"Thomas, Delgado and Hudson"
+456,Product 456,Beauty,8667,413,1.8,Watson-Walls
+457,Product 457,Beauty,4081,311,3.4,"Payne, Potter and Woods"
+458,Product 458,Electronics,7231,322,4.4,Mcdonald and Sons
+459,Product 459,Sports,3610,229,4.3,Becker LLC
+460,Product 460,Clothing,8795,312,3.6,Pham and Sons
+461,Product 461,Electronics,9272,103,4.7,Trujillo-Carey
+462,Product 462,Home,2010,4,3.8,Hamilton Group
+463,Product 463,Electronics,8313,230,2.1,"Oneill, Williams and Holland"
+464,Product 464,Sports,626,62,4.0,Alexander-Bennett
+465,Product 465,Clothing,1200,379,1.8,Everett PLC
+466,Product 466,Beauty,4450,434,4.9,"Oliver, Jones and Peterson"
+467,Product 467,Clothing,989,0,3.3,"Lambert, Harris and Gardner"
+468,Product 468,Electronics,1895,92,3.2,Welch PLC
+469,Product 469,Clothing,7584,472,4.8,Sherman-Fisher
+470,Product 470,Sports,8803,227,4.5,"Daniels, Davenport and Munoz"
+471,Product 471,Home,3454,364,2.0,Rice-Reid
+472,Product 472,Beauty,8141,357,2.1,Hall-Gordon
+473,Product 473,Sports,444,269,4.7,Haynes LLC
+474,Product 474,Clothing,6848,187,1.8,Gonzalez-Robles
+475,Product 475,Home,2596,70,1.3,Knox-Murray
+476,Product 476,Beauty,1509,43,4.1,Wright-Torres
+477,Product 477,Beauty,4434,404,4.3,Crawford-Buchanan
+478,Product 478,Home,7111,3,4.1,Martin and Sons
+479,Product 479,Home,4003,206,3.9,"Parker, Lewis and Woods"
+480,Product 480,Beauty,802,132,3.1,Taylor-Nelson
+481,Product 481,Beauty,6701,210,2.1,"Jordan, Juarez and Walker"
+482,Product 482,Beauty,4129,67,2.2,"Holt, Boyle and Wall"
+483,Product 483,Home,5769,154,2.3,"Walker, Williams and Summers"
+484,Product 484,Beauty,966,421,4.1,Gilbert-Ali
+485,Product 485,Beauty,2932,154,4.1,"Robertson, Ryan and Pugh"
+486,Product 486,Sports,7644,60,3.1,"Wilcox, Morgan and Ferguson"
+487,Product 487,Electronics,1596,327,3.4,Stanton Ltd
+488,Product 488,Electronics,5080,308,2.6,Johnson-Kemp
+489,Product 489,Home,4052,342,1.4,Craig Group
+490,Product 490,Sports,2663,163,2.4,"Williams, Hardin and Freeman"
+491,Product 491,Beauty,7872,91,4.4,Wade LLC
+492,Product 492,Beauty,2978,446,1.0,Barton Inc
+493,Product 493,Beauty,674,315,1.1,Palmer-Brown
+494,Product 494,Home,7434,85,3.2,"Hardin, Santiago and Vargas"
+495,Product 495,Electronics,7826,190,1.6,"Alvarez, Newton and Watson"
+496,Product 496,Beauty,816,255,2.9,Ayala-Martin
+497,Product 497,Clothing,6071,461,4.5,"Anderson, Butler and Dean"
+498,Product 498,Clothing,5376,373,4.4,"Mccoy, Ball and Kline"
+499,Product 499,Sports,7189,95,2.3,"Gonzalez, Robinson and Obrien"
+500,Product 500,Clothing,8459,487,1.2,Scott Group
